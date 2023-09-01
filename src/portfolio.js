@@ -169,25 +169,25 @@ const workExperiences = {
       company: "Allianz Life",
       companylogo: require("./assets/images/allianzLogo.png"),
       date: "May 2023 – August 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "During my internship, I primarily worked with Python Flask to develop backend functionalities for various projects. I also honed my skills in frontend design and implementation, extensively using HTML, CSS, and JavaScript. This experience not only enhanced my coding proficiency but also provided a holistic understanding of web application development.",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
       role: "CTO",
       company: "Adupix GmbH",
       companylogo: require("./assets/images/adupixLogo.webp"),
       date: "July 2022 – May 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "As the CTO of the company, I took the lead in pioneering our mobile development initiatives, primarily using Dart with Flutter to create intuitive and responsive mobile applications. In addition to this, I leveraged my expertise in C# for various backend and system-related tasks. My role was instrumental in shaping the technological direction and ensuring the integration of best practices in our development processes."
     },
     {
       role: "Backend Developer",
       company: "Brain GmbH",
       companylogo: require("./assets/images/brainLogo.png"),
       date: "December 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "At Brain GmbH, I delved deep into backend programming, predominantly harnessing the power of JavaScript. My primary responsibility was to seamlessly integrate a distinct service into our existing system infrastructure. This role required intricate understanding and implementation, ensuring smooth communication and functionality between various system components."
     }
   ]
 };
@@ -354,8 +354,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+1 (650) 690-7810",
+  email_address: "markus.handel00@gmail.com"
 };
 
 // Twitter Section
