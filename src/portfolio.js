@@ -184,10 +184,10 @@ const workExperiences = {
     },
     {
       role: "Backend Developer",
-      company: "Brain GmbH",
+      company: "Brain GmbH & Co.KG",
       companylogo: require("./assets/images/brainLogo.png"),
       date: "December 2022",
-      desc: "At Brain GmbH, I delved deep into backend programming, predominantly harnessing the power of JavaScript. My primary responsibility was to seamlessly integrate a distinct service into our existing system infrastructure. This role required intricate understanding and implementation, ensuring smooth communication and functionality between various system components."
+      desc: "At Brain, I delved deep into backend programming, predominantly harnessing the power of JavaScript. My primary responsibility was to seamlessly integrate a distinct service into our existing system infrastructure. This role required intricate understanding and implementation, ensuring smooth communication and functionality between various system components."
     }
   ]
 };
